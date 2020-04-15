@@ -6,7 +6,6 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    //"start": "ng serve",
     "start": "node tng-organizer/index.js",
     "build": "ng build",
     "test": "ng test",
